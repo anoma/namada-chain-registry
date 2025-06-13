@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/anoma/namada-chain-registry/compare/v1.3.0...v1.4.0) (2025-06-13)
+
+
+### Features
+
+* enable phase 5 for mainnet! ([#61](https://github.com/anoma/namada-chain-registry/issues/61)) ([b533534](https://github.com/anoma/namada-chain-registry/commit/b533534ae648f17aa6edf9ae0874d8088ee923fd))
+
 ## [1.3.0](https://github.com/anoma/namada-chain-registry/compare/v1.2.0...v1.3.0) (2025-05-21)
 
 
